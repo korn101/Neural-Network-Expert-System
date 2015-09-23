@@ -1,7 +1,7 @@
 Neural Network Expert System: Supervised Learning with Backpropagation
 =========
 
-Cancer Diagnosis with a Neural Network:
+Cancer Diagnosis of malignant breast cancer with a Neural Network:
 This neural network implementation has a diagnosis accuracy of 98%.
 
 Artificial Neural Networks (ANN) attempt in some degree to computationally model the inner workings of biological neural nets (like those in the brain.)
